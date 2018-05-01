@@ -1,5 +1,5 @@
 # Cryptocurrency-Icons---INeedMoreIcons
-cryptocurrency icons - INeedMoreIcons upto <strong>2287 icons</strong>, include <strong>700+ Cryptocurrency Icons</strong> and more soon.
+cryptocurrency icons - INeedMoreIcons upto <strong>2287 icons</strong>, include <strong>700+ Cryptocurrency Icons</strong> and more soon, or tell me which icon you need and I will update it.
 
 you can use default color or use CSS Colors to styling icons https://www.w3schools.com/cssref/css_colors.asp
 
